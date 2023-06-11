@@ -1,2 +1,2 @@
-# Partie-Front-du-master-project-
-Partie Front du master project
+# Frontend Master Project
+Partie Front Planner AI
